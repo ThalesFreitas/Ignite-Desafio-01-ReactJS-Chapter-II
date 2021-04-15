@@ -1,5 +1,5 @@
 
-# Desafio Criando um hook de carrinho de compras
+# Desafio criando um hook de carrinho de compras
 Desafio do Ignite Trilha ReactJS da Rocketseat.
 
  # 👞 RocketShoes
